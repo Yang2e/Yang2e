@@ -26,5 +26,5 @@ Bem-vindo ao meu GitHub! Sou um desenvolvedor apaixonado por tecnologia, IA, rob
 ## 📂 Repositórios Públicos
 
 - [**Visionery - Espelho Inteligente**](https://github.com/Yang2e/Visionery)
-- [**Pizzaria Tech - Plataforma Inteligente**](https://github.com/Yang2e/PizzariaTech)
+- [**Pizzaria-](https://github.com/Yang2e/pizzaria)
 
